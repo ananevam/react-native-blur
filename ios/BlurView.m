@@ -15,7 +15,7 @@
 
         self.blurAmount = @10;
         self.blurType = @"dark";
-        [self updateBlurEffect];
+        //[self updateBlurEffect];
 
         self.clipsToBounds = true;
 
